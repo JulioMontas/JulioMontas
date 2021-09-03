@@ -1,4 +1,10 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliomontas)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliomontas)](https://github.com/juliomontas/github-readme-stats)
+
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm A DJ - [M O N T Á S](https://ra.co/dj/montas)
+- 📫 How to reach me: [@juliomontas](https://twitter.com/juliomontas)
+- 💬 Ask me anything
 
 <!--
 **JulioMontas/JulioMontas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
