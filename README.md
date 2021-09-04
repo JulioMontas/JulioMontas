@@ -1,6 +1,9 @@
+
+### !Hola!
+
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm A DJ - [M O N T Á S](https://ra.co/dj/montas)
-- 📫 How to reach me: [@juliomontas](https://twitter.com/juliomontas)
+- ⚡ Fun fact: I'm A DJ - [RS: M O N T Á S](https://ra.co/dj/montas) | [SoundCloud](https://soundcloud.com/juliomontas)
+- 📫 How to reach me: [@JulioMontas](https://twitter.com/juliomontas)
 - 💬 Ask me anything
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliomontas)](https://github.com/juliomontas/github-readme-stats)
