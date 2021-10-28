@@ -1,6 +1,5 @@
 
-### !Hola!
-
+# !Hola!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm A DJ - [RS: M O N T Á S](https://ra.co/dj/montas) | [SoundCloud](https://soundcloud.com/juliomontas)
 - 📫 How to reach me: [@JulioMontas](https://twitter.com/juliomontas)
@@ -10,6 +9,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliomontas&layout=compact)
 
 ![](https://hit.yhype.me/github/profile?user_id=2007589)
+
+## Projects 
+[COLORS](https://github.com/JulioMontas/COLORS)
+![Colors Mockup](https://github.com/JulioMontas/JulioMontas/blob/main/Colors-Mockup-v1-0-0.jpg)
 
 <!--
 **JulioMontas/JulioMontas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
