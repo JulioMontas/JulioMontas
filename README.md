@@ -1,13 +1,18 @@
 
 ## !Hola!
-- 😄 Pronouns: He/Him
+- 💬 Ask me about: I'm a designer that love to write custom code
+- 🌱 I’m currently learning: Hydrogen for building Shopify custom eCommerce
+- 🤔 I’m looking for help with Three.js
 - ⚡ Fun fact: I'm A DJ - [RS: M O N T Á S](https://ra.co/dj/montas) | [SoundCloud](https://soundcloud.com/juliomontas)
 - 📫 How to reach me: [@JulioMontas](https://twitter.com/juliomontas)
-- 💬 Ask me anything
 
 ![](https://hit.yhype.me/github/profile?user_id=2007589)
 
 ## Projects 
+[Virtual Reality Music Festival](https://github.com/JulioMontas/Virtual-Reality-Music-Festival)
+![Virtual Reality Music Festival](https://github.com/JulioMontas/JulioMontas/blob/main/VR-Planet-v1-0-0.jpg)
+
+
 [COLORS](https://github.com/JulioMontas/COLORS)
 ![Colors Mockup](https://github.com/JulioMontas/JulioMontas/blob/main/Colors-Mockup-v1-0-0.jpg)
 
