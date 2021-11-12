@@ -6,8 +6,6 @@
 - ⚡ Fun fact: I'm A DJ - [RS: M O N T Á S](https://ra.co/dj/montas) | [SoundCloud](https://soundcloud.com/juliomontas)
 - 📫 How to reach me: [@JulioMontas](https://twitter.com/juliomontas)
 
-![](https://hit.yhype.me/github/profile?user_id=2007589)
-
 ## Projects 
 [Virtual Reality Music Festival](https://github.com/JulioMontas/Virtual-Reality-Music-Festival)
 ![Virtual Reality Music Festival](https://github.com/JulioMontas/JulioMontas/blob/main/VR-Planet-v1-0-0.jpg)
@@ -38,3 +36,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://hit.yhype.me/github/profile?user_id=2007589)
