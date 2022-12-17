@@ -1,14 +1,26 @@
 
 ## !Hola!
-- 💬 Ask me about: I'm a designer that love to write custom code
-- 🌱 I’m currently learning: Hydrogen for building Shopify custom eCommerce
-- 🤔 I’m looking for help with Three.js
-- ⚡ Fun fact: I'm A DJ - [RS: M O N T Á S](https://ra.co/dj/montas) | [SoundCloud](https://soundcloud.com/juliomontas)
-- 📫 How to reach me: [@JulioMontas](https://twitter.com/juliomontas)
+```
+(
+  "🗃️": "0,000,000,001",
+  "💬": "I'm a designer that love to write code 24/7",
+  "🌱": "OpenCV, PCB and hypervisor (also known as a virtual machine monitor, VMM, or virtualizer)",
+  "🤔": "How to automate my 3D printing or build VR/AR apps",
+  "⚡": (
+          "stack"
+                 [
+                   { "🗃️": "01", "title":"code", "skill_list": "GraphQL, CSS, JavaScript, Processing (P5.JS), Docker"},
+                   { "🗃️": "02", "title":"design", "skill_list": "Lunacy, Blender 3D, VR Scene build in WebVR"},
+                   { "🗃️": "03", "title":"IoT", "skill_list": "Soldering, Raspberry Pi, Arduino, ESP32"}
+                 ]
+        ),
+  "team": "WaWaWa",
+)
+``` 
 
 ## Projects 
 [Virtual Reality Music Festival](https://github.com/JulioMontas/Virtual-Reality-Music-Festival)
-![Virtual Reality Music Festival](https://github.com/JulioMontas/JulioMontas/blob/main/VR-Planet-v1-0-0.jpg)
+[Virtual Reality Music Festival](https://github.com/JulioMontas/JulioMontas/blob/main/VR-Planet-v1-0-0.jpg)
 
 
 [COLORS](https://github.com/JulioMontas/COLORS)
