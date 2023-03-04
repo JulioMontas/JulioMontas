@@ -20,7 +20,7 @@
 
 ## Projects 
 [Virtual Reality Music Festival](https://github.com/JulioMontas/Virtual-Reality-Music-Festival)
-[Virtual Reality Music Festival](https://github.com/JulioMontas/JulioMontas/blob/main/VR-Planet-v1-0-0.jpg)
+![Virtual Reality Music Festival](https://github.com/JulioMontas/JulioMontas/blob/main/VR-Planet-v1-0-0.jpg)
 
 
 [COLORS](https://github.com/JulioMontas/COLORS)
